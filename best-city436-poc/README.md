@@ -1,65 +1,49 @@
-# BestCity
+# Item Management API Assessment
 
-## What is BestCity?
+## 🎥 Project Demo
 
-BestCity is a modern real estate investment platform that combines traditional property investing with cryptocurrency payments. Built with React and Tailwind CSS, it mirrors the functionality of Arrived.com while adding blockchain-based transaction capabilities.
+**[Watch the Walkthrough on Loom](https://www.loom.com/share/400dcdd289574cdca3182330b9031963)**
 
-<img src="./public/bestcity00.png" alt="Best City" style="width:100%; height:auto;" />
+---
 
-## Key Features
+## ✅ Implement the Following Endpoints
 
-- Cryptocurrency-enabled property transactions
-- Mobile-responsive design
-- SEO-optimized architecture
-- Real-time market data integration
-- Interactive 3D property visualization
-- Smart contract integration for secure transactions
+- [x] **GET /api/items** (Returns paginated list; `page`, `limit`)
+- [x] **POST /api/items** (Creates item; `name`, `price`)
+- [x] **GET /api/items/:id** (Returns single item)
+- [x] **PUT /api/items/:id** (Updates item; `name`, `price`)
+- [x] **DELETE /api/items/:id** (Deletes item)
 
-## Technical Overview
+## ✅ Data Handling Requirements
 
-The platform is built using:
+- [x] **In-memory array (simplest)**
 
-- React for component-based architecture
-- Tailwind CSS for responsive styling
-- React Router for client-side routing
-- Three.js for 3D property visualizations
-- Web3.js for blockchain interactions
+## ✅ Additional Requirements
 
-## Contributing
+- [x] **Input validation** (using Zod)
+- [x] **Clean error handling** with proper HTTP status codes
+- [x] **Organized folder structure** (controllers, routes, services, etc.)
+- [x] **Code must follow Node.js and Express best practices**
 
-Contributions are welcome! Please:
+---
 
-1. Create a feature branch
-2. Write comprehensive tests
-3. Document new features
-4. Ensure code style consistency
-5. Submit pull requests with clear descriptions
+## 🌱 What We Could Build Together at Toku
 
-## Acknowledgments
+If salary is earned every second, why is it only accessible once a month?
 
-Special thanks to the BestCity team for inspiration and the React/Tailwind CSS communities for their continued support and resources.
+Payroll systems today follow rules that feel… inherited. Fixed cycles. Delayed access. Rigid flows built for a different financial era.
 
-# Getting Started
-- **OS:**<br/>
-  `Mac`, `Linux`, `Windows`<br/>
-    \*This project works best on `macOS`. If you encounter any problems while using other operating systems, please contact the administrator.
-- **Prerequirements:**<br/>
-  `Node v20.x.x`, Google Chrome
-- **Installing required dependencies:**<br/>
-  ```bash
-  npm install
-  ```
-  If above command doesn' t work, you can try install with `yarn` like below.
-  - Install `yarn` globally (If `npm` is not installed currently)
-  ```bash
-  npm install --global yarn
-  ```
-  - Install dependencies with `yarn`
-  ```bash
-  yarn install
-  ```
-- **Running project:**<br/>
-  ```bash
-  npm start
-  ```
+How about we build payroll together as financial infrastructure that adapts to human realities, not just rigid schedules?
 
+This is just the beginning — let’s build it together and drive innovation in payroll, fix the inefficiencies in a domain I’m obsessed with, and create something meaningful for every employee because it is often overlooked, underorganized, yet critical to every employee’s life.
+
+---
+
+## 📬 Contact
+
+If you have any questions or want to discuss the project, feel free to reach out!
+
+- **LinkedIn**: [Anshuman Jha](https://www.linkedin.com/in/anshuman-jha-27bab4339)
+- **Email**: [anshuman4.work@gmail.com](mailto:anshuman4.work@gmail.com)
+
+---
