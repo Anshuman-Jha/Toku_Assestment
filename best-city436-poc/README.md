@@ -20,15 +20,16 @@
 
 ---
 
-## 🚀 What We Could Build Together at Toku
+## 🌱 What We Could Build Together at Toku
 
-> **If salary is earned every second, why is it only accessible once a month?**
+> ### **_If salary is earned every second, why is it only accessible once a month?_**
 
 Payroll systems today follow rules that feel… inherited. Fixed cycles. Delayed access. Rigid flows built for a different financial era.
 
 **How about we build payroll together as financial infrastructure that adapts to human realities, not just rigid schedules?**
 
 This is just the beginning — let’s build it together and drive innovation in payroll, fix the inefficiencies in a domain I’m obsessed with, and create something meaningful for every employee because it is often overlooked, underorganized, yet critical to every employee’s life.
+
 
 ---
 
