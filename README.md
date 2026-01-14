@@ -15,7 +15,7 @@
 - [x] **Core Features**: In-memory Storage • Zod Validation • Clean Error Handling • Modular Architecture • Node.js Best Practices
 
 ---
-## 🌱 What We Could Build Together at Toku
+## 🌱 What We Can Build Together at Toku(It's my Obession on Payroll not an pitch honestly)
 > ### **_If salary is earned every second, why is it only accessible once a month?_**
 > ⚡ I’m committed to exploring this with the Toku team — not just as a thought experiment, but as a system we can build together because we are obsessed with payroll.
 
