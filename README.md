@@ -21,7 +21,7 @@
 
 Payroll systems today follow rules that feel… inherited. Fixed cycles. Delayed access. Rigid flows built for a different financial era.
 
-**How about we build payroll together as financial infrastructure that adapts to human realities, not just rigid schedules?**
+**How about we build payroll as financial infrastructure that respects and adapts to human realities- not just Inhuman rigid schedules?**
 
 >Insight: Exploring the potential of on-chain streaming payroll — enabling employees to access earned funds in real time, without waiting for HR approvals or traditional payroll cycles.
 
