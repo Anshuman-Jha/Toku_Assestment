@@ -4,7 +4,7 @@
 **[Watch the Walkthrough on Loom](https://www.loom.com/share/400dcdd289574cdca3182330b9031963)**
 
 ---
-## ✅ Implement the Following Endpoints
+## ✅ Implemented the Following Endpoints
 - [x] **GET /api/items** (Returns paginated list; `page`, `limit`)
 - [x] **POST /api/items** (Creates item; `name`, `price`)
 - [x] **GET /api/items/:id** (Returns single item)
