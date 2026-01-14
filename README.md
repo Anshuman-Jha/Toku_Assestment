@@ -15,15 +15,16 @@
 - [x] **Core Features**: In-memory Storage • Zod Validation • Clean Error Handling • Modular Architecture • Node.js Best Practices
 
 ---
-## 🌱 What We Can Build Together at Toku(It's my Obession on Payroll not an pitch honestly)
+## 🌱 What We Can Build Together at Toku
 > ### **_If salary is earned every second, why is it only accessible once a month?_**
-> ⚡ I’m committed to exploring this with the Toku team — not just as a thought experiment, but as a system we can build together because we are obsessed with payroll.
+> ⚡I’m deeply interested in exploring this design space with the Toku team — not as a finished idea, but as infrastructure we can shape together, driven by a shared obsession with improving how payroll truly works .
 
 Payroll systems today follow rules that feel… inherited. Fixed cycles. Delayed access. Rigid flows built for a different financial era.
 
 **How about we build payroll as financial infrastructure that respects and adapts to human realities- not just Inhuman rigid schedules?**
 
->Insight: Exploring the potential of on-chain streaming payroll — enabling employees to access earned funds in real time, without waiting for HR approvals or traditional payroll cycles.
+>Insight:Exploring a model of programmable, streaming payroll, where compensation accrues continuously into a rule-governed payroll escrow deployed on-chain.
+Employees can access a bounded portion of already-earned wages under deterministic, pre-defined rules — without discretionary HR approvals — while the remaining balance settles automatically at the payroll cycle with taxes, deductions, and compliance fully preserved.
 
 This is just the beginning — let’s build it together and drive innovation in payroll, fix the inefficiencies in a domain I’m obsessed with, and create something meaningful for every employee because it is often overlooked, underorganized, yet critical to every employee’s life.
 
