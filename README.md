@@ -19,7 +19,9 @@
 > ### **_If salary is earned every second, why is it only accessible once a month?_**
 > ⚡I’m deeply interested in exploring this design space with the Toku team — not as a finished idea, but as infrastructure we can shape together, driven by a shared obsession with improving how payroll truly works .
 
-Payroll systems today still operate on inherited rules — fixed cycles and delayed access shaped by historical technical and financial constraints that no longer exist, yet accepted over time as fundamental truths rather than design choices, and rarely questioned despite their impact on real lives.
+Why This Needs Rethinking
+
+>Payroll systems today still operate on inherited rules — fixed cycles and delayed access shaped by historical technical and financial constraints that no longer exist, yet accepted over time as fundamental truths rather than design choices, and rarely questioned despite their impact on real lives.
 
 **How about we build payroll as financial infrastructure that respects and adapts to human realities- not just Inhuman rigid schedules?**
 
